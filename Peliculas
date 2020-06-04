@@ -1,0 +1,20 @@
+db.Insert.insertOne(
+    {
+    "movie" : "Kimi no na wa",
+    "year" : 2016,
+    "rated" : "A",
+    "runtime" : 106,
+    "countrie" : "Japon",
+    "genres" : ["Animacion","Drama","Fantasia","Romance"],
+    "director" : "Makoto Shinkai",
+    "writers" : ["Makoto Shinkai","Clark Cheng"],
+    "actors" : [" Mone Kamishiraishi ","Aoi Yûki","Ryô Narita","Ryûnosuke Kamiki"],
+    "plot" : "El joven Taki vive en Tokio: la joven Mitsuha, en un pequeño pueblo en las montañas. Durante el sueño, los cuerpos de ambos se intercambian. Recluidos en un cuerpo que les resulta extraño, comienzan a comunicarse.",
+    "poster" :"https://i.pinimg.com/originals/2d/35/c5/2d35c560ff52f6b7c6fa1a1df11868a1.jpg",
+    "imdb" : {"id" :null,"rating" : 8.4,"votes" : 1363},
+    "tomato" : {"meter" : 98,"image" : "certified","rating" : 8,"reviews" : 553,"fresh" : 221,"consensus" : 487,"userMeter" : 35,"userRating" : 6.7,"userReviews" : 633},
+    "metacritic" : 79,
+    "wards" : {"wins" : 16,"nominations" : 25,"text" : "16 wins & 25 nominations."},
+    "type" : "Movie"
+}
+);
